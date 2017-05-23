@@ -1,8 +1,7 @@
 # Data Analysis
 
 This challenge will test your ability to examine data sets and compute some basic properties that we find generally 
-useful. The file [here](https://s3.amazonaws.com/14d-retention/insights/ds_cc.json) (we will need to put this somewhere 
-else) contains a list of businesses which are fairly representative of data we get from our external data providers. 
+useful. The file [here](data.json.zip) contains a list of businesses which are fairly representative of data we get from our external data providers. 
 Each business has the following fields:
 
 - **name**: The name of the business
